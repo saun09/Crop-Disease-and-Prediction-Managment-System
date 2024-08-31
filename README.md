@@ -5,7 +5,7 @@
 - **Abdullah Qureshi** - Team Member
 - **Sambhav Tripathi** - Team Member
 - **Saundarya Subramaniam** - Team Leader
-- **Shalini Majumdar ** - Team Member
+- **Shalini Majumdar** - Team Member
 - **Shantanu Nadar** - Team Member
 
 ## Project Description
