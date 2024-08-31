@@ -1,15 +1,15 @@
 # Project Title: **[AI - Driven crop disease prediction and management system]**
 
 ## Team Members
-- **[Ananya Dhiman]** - [Team Member] 
-- **[Abdullah Qureshi]** - [Team Member] 
-- **[Sambhav Tripathi]** - [Team Member]
-- **[Saundarya Subramaniam]** - [Team Leader]
-- **[Shalini Majumdar ]** - [Team Member]
-- **[Shantanu Nadar]** - [Team Member] 
+- **Ananya Dhiman** - Team Member
+- **Abdullah Qureshi** - Team Member
+- **Sambhav Tripathi** - Team Member
+- **Saundarya Subramaniam** - Team Leader
+- **Shalini Majumdar ** - Team Member
+- **Shantanu Nadar** - Team Member
 
 ## Project Description
-[Provide a brief description of your project. Explain what problem it solves, the key features, and any relevant details about how it works.]
+AI-driven crop disease identification , prediction and management system
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -24,7 +24,7 @@
 ---
 
 ### Introduction
-[Provide a detailed introduction to your project. Mention the motivation behind the project, the problem it aims to solve, and the target audience.]
+//[Provide a detailed introduction to your project. Mention the motivation behind the project, the problem it aims to solve, and the target audience.]
 
 ### Features
 - [Feature 1]
