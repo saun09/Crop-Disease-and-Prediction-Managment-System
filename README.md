@@ -1,4 +1,4 @@
-##**AI - Driven crop disease prediction and management system**
+## AI - Driven crop disease prediction and management system
 
 ## Team Members
 - **Ananya Dhiman** 
