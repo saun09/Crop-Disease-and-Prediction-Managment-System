@@ -1,12 +1,12 @@
 # Project Title: **[AI - Driven crop disease prediction and management system]**
 
 ## Team Members
-- **Ananya Dhiman** - Team Member
-- **Abdullah Qureshi** - Team Member
-- **Sambhav Tripathi** - Team Member
-- **Saundarya Subramaniam** - Team Leader
-- **Shalini Majumdar** - Team Member
-- **Shantanu Nadar** - Team Member
+- **Ananya Dhiman** 
+- **Abdullah Qureshi** 
+- **Sambhav Tripathi** 
+- **Saundarya Subramaniam** 
+- **Shalini Majumdar** 
+- **Shantanu Nadar** 
 
 ## Project Description
 AI-driven crop disease identification , prediction and management system
