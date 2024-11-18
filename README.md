@@ -16,10 +16,7 @@ AI-driven crop disease identification , prediction and management system
 2. [Features](#features)
 3. [Tech Stack](#tech-stack)
 4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Contributing](#contributing)
-7. [License](#license)
-8. [Acknowledgements](#acknowledgements)
+
 
 ---
 
