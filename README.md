@@ -27,13 +27,19 @@ AI-driven crop disease identification , prediction and management system
 We have developed a system that uses AI to predict crop diseases from images and environmental data, aiming to help farmers detect issues early and take effective action. By incorporating mobile and web-based platforms, we provide a simple and accessible tool for farmers to receive accurate diagnoses and treatment recommendations. Our goal is to reduce crop losses, minimize pesticide misuse, and promote sustainable farming practices through innovative technology
 
 ### Features
-- [Feature 1]
-- [Feature 2]
-- [Feature 3]
+- AI-Powered Disease Prediction:
+Farmers can upload crop images, and the system uses advanced image processing and AI algorithms to accurately predict diseases affecting the plants.
+- Treatment Recommendations:
+Based on the diagnosis, the system provides actionable treatment plans tailored to the specific disease, helping farmers make informed decisions.
+- Environmental Data Integration:
+The system incorporates real-time environmental data like temperature, humidity, and soil conditions to enhance prediction accuracy and provide better insights.
   
 ### Tech Stack
-- **Frontend**: [List of technologies/libraries used]
-- **Backend**: [List of technologies/libraries used]
+- **Frontend**: Flutter (for mobile application)
+- **Backend**: Flask (for API development and model integration)
+-  Python (for AI/ML model implementation)
+- **Machine Learning**: TensorFlow/Keras (for building and training image classification models)
+TensorFlow Lite (for deploying ML models on mobile devices)
 - **Database**: [Database used, if any]
 - **Other Tools**: [Additional tools or services used]
 
