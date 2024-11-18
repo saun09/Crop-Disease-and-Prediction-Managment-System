@@ -43,17 +43,15 @@ TensorFlow Lite (for deploying ML models on mobile devices)
 - **Database**: [Database used, if any]
 - **Other Tools**: [Additional tools or services used]
 
-[### Installation ]
+### Installation 
 [Instructions on how to set up the project locally. Include steps for cloning the repository, installing dependencies, and any other necessary setup.]
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/saun09/Crop-Disease-and-Prediction-Managment-System.git  
 
 # Navigate to the project directory
-cd your-repo-name
+cd Crop-Disease-and-Prediction-Managment-System
 
 # Install dependencies
-npm install
-# or
 pip install -r requirements.txt
