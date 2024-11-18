@@ -43,7 +43,7 @@ TensorFlow Lite (for deploying ML models on mobile devices)
 - **Database**: [Database used, if any]
 - **Other Tools**: [Additional tools or services used]
 
-### Installation
+//### Installation
 [Instructions on how to set up the project locally. Include steps for cloning the repository, installing dependencies, and any other necessary setup.]
 
 ```bash
