@@ -24,7 +24,7 @@ AI-driven crop disease identification , prediction and management system
 ---
 
 ### Introduction
-//[Provide a detailed introduction to your project. Mention the motivation behind the project, the problem it aims to solve, and the target audience.]
+We have developed a system that uses AI to predict crop diseases from images and environmental data, aiming to help farmers detect issues early and take effective action. By incorporating mobile and web-based platforms, we provide a simple and accessible tool for farmers to receive accurate diagnoses and treatment recommendations. Our goal is to reduce crop losses, minimize pesticide misuse, and promote sustainable farming practices through innovative technology
 
 ### Features
 - [Feature 1]
