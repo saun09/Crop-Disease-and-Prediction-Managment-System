@@ -24,16 +24,32 @@ This AI-driven system leverages image classification and predictive modeling to 
 ### Introduction
 We have developed a system that uses AI to predict crop diseases from images and environmental data, aiming to help farmers detect issues early and take effective action. By incorporating mobile and web-based platforms, we provide a simple and accessible tool for farmers to receive accurate diagnoses and treatment recommendations. Our goal is to reduce crop losses, minimize pesticide misuse, and promote sustainable farming practices through innovative technology
 
-### Features
--Disease Detection-Identify diseases in cotton, maize, wheat, and sugarcane through AI-powered image analysis.
--Real-Time Predictions-Provides instant results with confidence scores for uploaded images.
--Treatment Recommendations-Offers precise solutions to reduce crop losses and improve productivity.
--User-Friendly Interface-Designed with multilingual support for seamless farmer interaction.
--Offline Mode-Enables functionality in low or no internet connectivity areas.
--Data Insights-Analyzes disease trends for better decision-making in agriculture.
-- AI-Powered Disease Prediction-Farmers can upload crop images, and the system uses advanced image processing and AI algorithms to accurately predict diseases affecting the plants.
-- Treatment Recommendations-Based on the diagnosis, the system provides actionable treatment plans tailored to the specific disease, helping farmers make informed decisions.
-- Environmental Data Integration-The system incorporates real-time environmental data like temperature, humidity, and soil conditions to enhance prediction accuracy and provide better insights.
+### Features 
+
+- **Disease Detection**  
+  Identify diseases in cotton, maize, wheat, and sugarcane through AI-powered image analysis.  
+
+- **Real-Time Predictions**  
+  Provides instant results with confidence scores for uploaded images.  
+
+- **Treatment Recommendations**  
+  Offers precise solutions to reduce crop losses and improve productivity.  
+
+- **User-Friendly Interface**  
+  Designed with multilingual support for seamless farmer interaction.  
+
+- **Offline Mode**  
+  Enables functionality in low or no internet connectivity areas.  
+
+- **Data Insights**  
+  Analyzes disease trends for better decision-making in agriculture.  
+
+- **AI-Powered Disease Prediction**  
+  Farmers can upload crop images, and the system uses advanced image processing and AI algorithms to accurately predict diseases affecting the plants.  
+
+- **Environmental Data Integration**  
+  Incorporates real-time environmental data like temperature, humidity, and soil conditions to enhance prediction accuracy and provide better insights.  
+
   
 ### Tech Stack
 - **Frontend**: Flutter (for mobile application)
