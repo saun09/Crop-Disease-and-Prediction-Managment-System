@@ -25,8 +25,8 @@ train_data_dir = r'C:\Users\Saundarya\Downloads\archive (2)\Train'
 
 validation_data_dir = r'C:\Users\Saundarya\Downloads\archive (2)\Validation'
 img_width, img_height = 299, 299
-batch_size = 8 #8 or 4
-epochs = 5
+batch_size = 16 #8 or 4
+epochs = 50
 
 # We can add shear, rotate etc to make the model transform invariant but not needed for now.
 train_datagen = ImageDataGenerator(rescale=1./255)
