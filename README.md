@@ -61,3 +61,5 @@ We have developed a system that uses AI to predict crop diseases from images and
 TensorFlow Lite (for deploying ML models on mobile devices)
 - **Dataset**: (https://www.kaggle.com/datasets/jawadali1045/20k-multi-class-crop-disease-images)
 
+### Methodology and process implementation
+
