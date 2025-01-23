@@ -23,10 +23,10 @@ This AI-driven system leverages image classification and predictive modeling to 
 
 ---
 
-### Introduction
+## Introduction
 We have developed a system that uses AI to predict crop diseases from images and environmental data, aiming to help farmers detect issues early and take effective action. By incorporating mobile and web-based platforms, we provide a simple and accessible tool for farmers to receive accurate diagnoses and treatment recommendations. Our goal is to reduce crop losses, minimize pesticide misuse, and promote sustainable farming practices through innovative technology
 
-### Features 
+## Features 
 
 - **Disease Detection**  
   Identify diseases in cotton, maize, wheat, and sugarcane through AI-powered image analysis.  
@@ -53,7 +53,7 @@ We have developed a system that uses AI to predict crop diseases from images and
   Incorporates real-time environmental data like temperature, humidity, and soil conditions to enhance prediction accuracy and provide better insights.  
 
   
-### Tech Stack
+## Tech Stack
 - **Frontend**: Flutter (for mobile application)
 - **Backend**: Flask (for API development and model integration)
 -  Python (for AI/ML model implementation)
@@ -61,7 +61,7 @@ We have developed a system that uses AI to predict crop diseases from images and
 TensorFlow Lite (for deploying ML models on mobile devices)
 - **Dataset**: (https://www.kaggle.com/datasets/jawadali1045/20k-multi-class-crop-disease-images)
 
-### Methodology and process implementation
+## Methodology and process implementation
 ![Methodology](https://github.com/user-attachments/assets/ef20059d-b5d6-4fe6-af09-7157bfba86f5)
 
 The following flowchart outlines the methodology for the **Crop Disease Prediction and Management System**:  
