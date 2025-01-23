@@ -1,12 +1,13 @@
 ## AI - Driven crop disease prediction and management system
 
 ## Team Members
+- **Saundarya Subramaniam** 
+- **Shalini Majumdar**
+- **Shantanu Nadar** 
 - **Ananya Dhiman** 
 - **Abdullah Qureshi** 
 - **Sambhav Tripathi** 
-- **Saundarya Subramaniam** 
-- **Shalini Majumdar** 
-- **Shantanu Nadar** 
+
 
 ## Project Description
 This AI-driven system leverages image classification and predictive modeling to detect diseases in crops like cotton, maize, wheat, and sugarcane. Farmers can upload crop images through a mobile or web application to receive real-time disease predictions and actionable treatment recommendations. Using transfer learning with the InceptionV3 model, decision trees, and TensorFlow Lite for deployment, the platform aims to enhance agricultural productivity, reduce crop losses, and empower farmers with data-driven insights in their preferred local language.
