@@ -63,6 +63,7 @@ TensorFlow Lite (for deploying ML models on mobile devices)
 
 ### Methodology and process implementation
 ![Methodology](https://github.com/user-attachments/assets/ef20059d-b5d6-4fe6-af09-7157bfba86f5)
+
 The following flowchart outlines the methodology for the **Crop Disease Prediction and Management System**:  
 
 1. **Farmer Interaction**  
