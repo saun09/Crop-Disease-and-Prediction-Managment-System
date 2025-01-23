@@ -63,5 +63,28 @@ TensorFlow Lite (for deploying ML models on mobile devices)
 
 ### Methodology and process implementation
 ![Methodology](https://github.com/user-attachments/assets/ef20059d-b5d6-4fe6-af09-7157bfba86f5)
+## Methodology  
+
+The following flowchart outlines the methodology for the **Crop Disease Prediction and Management System**:  
+
+1. **Farmer Interaction**  
+   - Farmers sign up or log in to the system via a user interface that supports multiple languages (English, Kannada, Hindi).  
+   - They capture or upload an image of the affected crop.  
+
+2. **Pre-Processing and Analysis**  
+   - The system pre-processes the uploaded image for better analysis.  
+   - Environmental data ( location, weather conditions) is integrated to enhance prediction accuracy.  
+
+3. **Disease Prediction**  
+   - Disease prediction model analyzes the processed image and environmental data to diagnose the disease.  
+
+4. **Recommendation and Feedback**  
+   - The system provides tailored treatment recommendations based on the diagnosis.  
+   - Farmers can give feedback, which helps refine the system.  
+
+5. **Admin Oversight**  
+   - Admins oversee the process and ensure the system's efficiency and updates.  
+
+This methodology ensures accurate disease diagnosis, actionable recommendations, and a user-friendly experience for farmers.  
 
 
